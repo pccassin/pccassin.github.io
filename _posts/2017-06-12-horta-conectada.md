@@ -7,7 +7,7 @@ categories: horta iot
 ---
 
 Há algum tempo venho querendo automatizar minha horta. O problema é que eu não tinha horta hahah!
-Todas as vezes que plantava minhas hortaliças a correria do dia-a-dia fazia com que morressem (falta de água ou excesso de sol msm ¯\_(ツ)_/¯ ).
+Todas as vezes que plantava minhas hortaliças a correria do dia-a-dia fazia com que morressem (falta de água ou excesso de sol msm  ¯\_(ツ)_/¯ ).
 
 Agora, finalmente plantei tomates e estão crescendo (Yeahh!). Fazem 3 semanas e olha só como estão:
 
