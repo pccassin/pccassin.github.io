@@ -2,7 +2,7 @@
 layout: page
 title: Sobre
 permalink: /about/
-tags: sobre
+tags: about
 ---
 
 Eu sou o Paulo Cassin (Filho) e este blog guarda as novidades, os arquivos e todo tipo de documentação dos meus projetos.
