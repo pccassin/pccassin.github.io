@@ -19,7 +19,7 @@ bing_verification:
 # Optional features
 animated:             true
 show_related_posts:   false
-show_post_footers:    false
+show_post_footers:    true
 show_social_icons:    true
 ajaxify_contact_form: false
 enable_mathjax: false
@@ -55,7 +55,7 @@ twitter_username: pccassin
 skype_username:
 steam_nickname:
 google_plus_id:
-linkedin_username:
+linkedin_username: pccassin
 angellist_username:
 medium_id:
 bitcoin_url:
@@ -67,10 +67,10 @@ vk_id:
 # Post sharing icons
 show_sharing_icons: true
 # Change to 'true' to enable individual icons
-share_facebook: true
-share_twitter: true
+share_facebook: false
+share_twitter: false
 share_googleplus: false
-share_linkedin: true
+share_linkedin: false
 share_digg: false
 share_tumblr: false
 share_reddit: false
