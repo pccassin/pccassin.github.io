@@ -11,7 +11,7 @@ Todas as vezes que plantava minhas hortaliças a correria do dia-a-dia fazia com
 
 Agora, finalmente plantei tomates e estão crescendo (Yeahh!). Fazem 3 semanas e olha só como estão:
 
-_![desk](https://user-images.githubusercontent.com/987594/27019201-dafdc586-4f0c-11e7-817c-810edd159b7e.JPG)_
+![desk](https://user-images.githubusercontent.com/987594/27019201-dafdc586-4f0c-11e7-817c-810edd159b7e.JPG)_
 
 ### Próximo passo
 Agora que já tenho tomates crescendo saldáveis chegou a hora de automatizar. Para isso pesquisei um pouco sobre o projeto [OpenAg](http://openag.media.mit.edu) (Open Agriculture) do MIT, um projeto de "Máquina de comida", um equipamento que acelera o crescimento das plantas e trabalha com Aeroponia e hidroponia. No meu caso vou manter o método clássico, mas pretendo construir o sistema de luzes de crescimento, para acelerar um pouco o crescimento do meu tomate ;D
