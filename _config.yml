@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
-baseurl:     ""
-url:         "http://pixyll.com"
+title:       Paulo Cassin
+email:       paulo@cassin.me
+author:      Paulo Cassin
+description: "Espaço de compartilhamento de projetos que desenvolvi ou estou desenvolvendo."
+baseurl:     "/blog"
+url:         "http://pccassin.github.io"
 date_format: "%b %-d, %Y"
 
 # Google services
@@ -17,10 +17,10 @@ google_tag_manager:
 bing_verification:
 
 # Optional features
-animated:             false
+animated:             true
 show_related_posts:   false
 show_post_footers:    false
-show_social_icons:    false
+show_social_icons:    true
 ajaxify_contact_form: false
 enable_mathjax: false
 extended_fonts: false
@@ -48,10 +48,10 @@ facebook_appid:
 facebook_comments_number: 10
 
 # Social icons
-github_username:
+github_username: pccassin
 bitbucket_username:
 stackoverflow_id:
-twitter_username:
+twitter_username: pccassin
 skype_username:
 steam_nickname:
 google_plus_id:
@@ -65,12 +65,12 @@ telegram_username:
 vk_id:
 
 # Post sharing icons
-show_sharing_icons: false
+show_sharing_icons: true
 # Change to 'true' to enable individual icons
-share_facebook: false
-share_twitter: false
+share_facebook: true
+share_twitter: true
 share_googleplus: false
-share_linkedin: false
+share_linkedin: true
 share_digg: false
 share_tumblr: false
 share_reddit: false
