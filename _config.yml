@@ -3,7 +3,7 @@ title:       Paulo Cassin
 email:       paulo@cassin.me
 author:      Paulo Cassin
 description: "Espaço de compartilhamento de projetos que desenvolvi ou estou desenvolvendo."
-baseurl:     "/blog"
+baseurl:     ""
 url:         "http://pccassin.github.io"
 date_format: "%b %-d, %Y"
 
