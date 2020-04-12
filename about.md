@@ -5,9 +5,7 @@ permalink: /about/
 tags: about
 ---
 
-## **Hey\! **
-
-Eu sou **Paulo Cassin**, ou voc&ecirc; pode me chamar s&oacute; de **Cassin**.<br><br>Ao longo de meus 11 anos de carreira, desenvolvi minhas habilidades (hard and soft skills) em empresas de varejo (moda, cosm&eacute;ticos, cuidados pessoais), de finan&ccedil;as (pagamentos, banco digital), de desenvolvimento de software e hardware.
+Hey\! &nbsp;Eu sou **Paulo Cassin**, ou voc&ecirc; pode me chamar s&oacute; de **Cassin**.<br><br>Ao longo de meus 11 anos de carreira, desenvolvi minhas habilidades (hard and soft skills) em empresas de varejo (moda, cosm&eacute;ticos, cuidados pessoais), de finan&ccedil;as (pagamentos, banco digital), de desenvolvimento de software e hardware.
 
 No caminho desta deliciosa carreira pelas empresas que passei, fiquei realmente apaixonado pela lideran&ccedil;a de equipes, empreendedorismo, inova&ccedil;&atilde;o, gerenciamento de projetos e desenvolvimento de produtos. Estas disciplinas me levaram a encontrar um papel (Agile Master / Coach) que me permite entregar minha paix&atilde;o com autonomia, com capacidade de influenciar e catalisar mudan&ccedil;as atrav&eacute;s da empresas e equipes, al&eacute;m da possibilidade de empoderar colegas de equipe e muitos outros atrav&eacute;s da troca de conhecimento, orienta&ccedil;&atilde;o e treinamento. E por &uacute;ltimo, mas n&atilde;o menos importante, posso intraempreender as empresas para inovar, criar diferenciais competitivos e crescer.
 
