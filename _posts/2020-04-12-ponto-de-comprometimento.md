@@ -12,5 +12,6 @@ categories:
 ---
 
 <iframe src="https://anchor.fm/paulo-cassin/embed/episodes/Teste1-ecu2sj/a-a1vbgso" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<p><audio controls="controls"><source src="https://anchor.fm/paulo-cassin/episodes/Teste1-ecu2sj/a-a1vbgso" type="audio/mpeg" /></audio></p>
 
 H&aacute; algumas semanas um time que aux&iacute;lio foi cobrado por uma entrega&nbsp;&nbsp;
