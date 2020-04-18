@@ -11,6 +11,6 @@ categories:
   - Previsibilidade
 ---
 
-\[ em desenvolvimento \]
-
 <iframe src="https://anchor.fm/paulo-cassin/embed/episodes/Teste1-ecu2sj/a-a1vbgso" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+H&aacute; algumas semanas um time que aux&iacute;lio foi cobrado por uma entrega&nbsp;&nbsp;
