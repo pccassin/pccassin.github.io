@@ -1,11 +1,11 @@
 # Site settings
-title:       Paulo Cassin
-email:       paulo@cassin.me
-author:      Paulo Cassin e Convidados
-description: "Espaço para compartilhamento da série "Polêmica Ágil" e também outros pensamentos do autor e seus convidados."
-baseurl:     ""
-url:         "http://cassin.me"
-date_format: "%b %-d, %Y"
+title:Paulo Cassin
+email:paulo@cassin.me
+author:Paulo Cassin e Convidados
+description:"Espaço para compartilhamento da série "Polêmica Ágil" e também outros pensamentos do autor e seus convidados."
+baseurl:""
+url:"http://cassin.me"
+date_format:"%b %-d, %Y"
 
 # Google services
 google_verification:
