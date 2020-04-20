@@ -13,7 +13,7 @@ categories:
 
 <iframe src="https://anchor.fm/paulo-cassin/embed/episodes/Teste1-ecu2sj/a-a1vbgso" height="102px" width="400px" frameborder="0" scrolling="no"></iframe><!--<p><audio controls="controls"><source src="https://anchor.fm/paulo-cassin/episodes/Teste1-ecu2sj/a-a1vbgso" type="audio/mpeg" /></audio></p>-->
 
-H&aacute; algumas semanas em um time que acompanho, fomos questionados da data de entrega de alguns itens de trabalho. Para responder, marcamos um alinhamento junto ao time e Product Owner, com objetivo de estimarmos quanto de trabalho restava e avaliarmos quando provavelmente ir&iacute;amos entregar. Durante esta reuni&atilde;o, um membro do time perguntou:&nbsp;
+<br>H&aacute; algumas semanas em um time que acompanho, fomos questionados da data de entrega de alguns itens de trabalho. Para responder, marcamos um alinhamento junto ao time e Product Owner, com objetivo de estimarmos quanto de trabalho restava e avaliarmos quando provavelmente ir&iacute;amos entregar. Durante esta reuni&atilde;o, um membro do time perguntou:&nbsp;
 
 > "Qual a expectativa de data para entregarmos este item?"
 
@@ -25,12 +25,6 @@ O time ficou um tanto assustado com a resposta. E ai vem o tempero desse molho\!
 
 &nbsp;A discuss&atilde;o desta Pol&ecirc;mica &Aacute;gil e as conclus&otilde;es, voc&ecirc; encontra neste epis&oacute;dio do Podcast. Aperta o **Play** e ou&ccedil;a o desfecho dessa treta\!&nbsp;
 
-\---
+\-–
 
 Fique ligado, para novos epis&oacute;dios e artigos toda &uacute;ltima sexta-feira do m&ecirc;s. E n&atilde;o se esque&ccedil;a, coloque sua rea&ccedil;&atilde;o e deixe seu coment&aacute;rio aqui embaixo&nbsp;![👇](chrome-extension://cahedbegdkagmcjfolhdlechbkeaieki/images/apple/1f447.png "White Down Pointing Backhand Index"){: .chromoji}
-
-&nbsp;
-
-&nbsp;
-
-<br>&nbsp;
