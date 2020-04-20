@@ -11,9 +11,10 @@ categories:
   - Previsibilidade
 ---
 
-<iframe src="https://anchor.fm/paulo-cassin/embed/episodes/Teste1-ecu2sj/a-a1vbgso" height="102px" width="400px" frameborder="0" scrolling="no"></iframe><!--<p><audio controls="controls"><source src="https://anchor.fm/paulo-cassin/episodes/Teste1-ecu2sj/a-a1vbgso" type="audio/mpeg" /></audio></p>-->
-
-<br>H&aacute; algumas semanas em um time que acompanho, fomos questionados da data de entrega de alguns itens de trabalho. Para responder, marcamos um alinhamento junto ao time e Product Owner, com objetivo de estimarmos quanto de trabalho restava e avaliarmos quando provavelmente ir&iacute;amos entregar. Durante esta reuni&atilde;o, um membro do time perguntou:&nbsp;
+<iframe src="https://anchor.fm/paulo-cassin/embed/episodes/Teste1-ecu2sj/a-a1vbgso" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<br>
+<br>
+H&aacute; algumas semanas em um time que acompanho, fomos questionados da data de entrega de alguns itens de trabalho. Para responder, marcamos um alinhamento junto ao time e Product Owner, com objetivo de estimarmos quanto de trabalho restava e avaliarmos quando provavelmente ir&iacute;amos entregar. Durante esta reuni&atilde;o, um membro do time perguntou:&nbsp;
 
 > "Qual a expectativa de data para entregarmos este item?"
 
