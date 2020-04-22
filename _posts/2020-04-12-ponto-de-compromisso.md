@@ -23,7 +23,7 @@ O PO na hora respondeu:
 
 O time ficou um tanto assustado com a resposta. E ai vem o tempero desse molho\! O item que o PO se referiu ainda n&atilde;o tinha passado do 'Ponto de Compromisso' do time. Muitos outros itens haviam passado pelo 'Replenishment' ~ reuni&atilde;o onde o time transforma um item de uma 'solicita&ccedil;&atilde;o de trabalho' para 'compromisso de fazer' ~ antes daquele, j&aacute; haviam sido trabalhados e entregues. Ou seja, se at&eacute; aquele momento n&oacute;s n&atilde;o t&iacute;nhamos o compromisso de fazer aquele item, todos do time **n&atilde;o estavam comprometidos com aquele trabalho**. O que significa que o item n&atilde;o estava dentro da 'Defini&ccedil;&atilde;o de Preparado', n&atilde;o tinha todo entendimento necess&aacute;rio do 'O que' precisava ser feito. Com isso vem a pergunta pol&ecirc;mica da vez: Podemos responder, quando vai ficar pronto, antes do ponto de compromisso?&nbsp;
 
-&nbsp;A discuss&atilde;o desta Pol&ecirc;mica &Aacute;gil e as conclus&otilde;es, voc&ecirc; encontra neste epis&oacute;dio do Podcast. Aperte o **Play** e ou&ccedil;a o desfecho dessa pol&ecirc;mica\!&nbsp;
+&nbsp;A discuss&atilde;o desta Pol&ecirc;mica &Aacute;gil e as conclus&otilde;es, voc&ecirc; encontra neste epis&oacute;dio do Podcast. Aperte o **Play** e ou&ccedil;a o desfecho dessa hist&oacute;ria\!&nbsp;
 
 \-–
 
