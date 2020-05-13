@@ -11,7 +11,7 @@ categories:
   - Previsibilidade
 ---
 
-<iframe src="https://anchor.fm/paulo-cassin/embed/episodes/Teste1-ecu2sj/a-a1vbgso" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/polemica-agil/embed" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 <br><br>H&aacute; algum tempo em um time que acompanhei, fomos questionados da data de entrega de um item de trabalho. Para responder, marcamos um alinhamento junto ao time e Product Owner, com objetivo de estimarmos quanto de trabalho restava e avaliarmos quando provavelmente ir&iacute;amos entregar. Durante esta reuni&atilde;o, um membro do time perguntou:&nbsp;
 
