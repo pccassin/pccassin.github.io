@@ -17,4 +17,4 @@ Quando n&atilde;o estou trabalhando, estudando ou construindo alguns projetos pa
 
 Se meu perfil de alguma forma lhe interessou e voc&ecirc; acredita que podemos trabalhar juntos, trocar experi&ecirc;ncias ou at&eacute; nos tornarmos amigos ou por muitas outras raz&otilde;es diferentes, voc&ecirc; acredita que devemos nos conectar. Por favor entre em contato comigo\!&nbsp;
 
-Me siga tamb&eacute;m em: [LinkedIn](http://linkedin/in/pccassin){: target="_blank"}, [Instagram](https://www.instagram.com/pccassin/){: target="_blank"}
+Me siga tamb&eacute;m em: [LinkedIn](https://www.linkedin.com/in/pccassin/){: target="_blank"}, [Instagram](https://www.instagram.com/pccassin/){: target="_blank"}
